@@ -83,10 +83,14 @@
 
 ---
 
-## 🌿 Contribution Graph
+## 🌿 Contribution
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leehyeon2021&theme=react-dark&area=true&hide_border=true" />
+  <img src="http://mazandi.herokuapp.com/api?handle=leehyeon2021&theme=cold" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leehyeon2021/leehyeon2021/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
