@@ -1,21 +1,26 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1b4fa8,100:f5c400&height=180&section=header&text=Hello%2C%20World!%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=f5e642" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1b4fa8,100:f5c400&height=180&section=header&text=문장을%20해석하듯%2C%20시스템을%20읽습니다&fontFamily=Pretendard&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Lee%20Tae-hyun&descSize=16&descAlignY=58&descColor=f5e642" width="100%" />
 </div>
-
-<br/>
 
 <!-- Intro -->
 <div align="center">
-  <h2><p>문장을 해석하듯 시스템을 읽는 사람,</p> <strong>이태현</strong>입니다. 👩🏻‍💻</h2>
+  <br/>
+  <h1>안녕하세요, 이태현입니다.</h1>
   <p>
-    국어국문학을 전공하며 길러진 구조적 사고를 바탕으로<br/>
-    데이터 흐름과 역할 경계를 설계하는 백엔드 개발자를 지향합니다.<br/>
-    <em>"구조가 바뀌면 흐름이 바뀐다."</em>
+    <img src="https://img.shields.io/badge/Focus-Backend_Development-3178C6?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Background-Korean_Literature-E91E63?style=flat-square"/>
   </p>
-</div>
 
-<br/>
+  <p>
+    <b>문장을 해석하듯 시스템을 읽습니다.</b><br/>
+    국어국문학을 통해 단련된 구조적 사고를 바탕으로<br/>
+    데이터의 흐름과 객체의 역할을 설계하는 백엔드 개발을 지향합니다.
+  </p>
+
+  <code style="padding: 5px 10px; border-radius: 5px;">"구조가 바뀌면 흐름이 바뀐다."</code>
+  <br/><br/>
+</div>
 
 ---
 
@@ -65,7 +70,7 @@
 | **🌱 Learning** | AI 딥러닝 중심 풀스택 개발 과정 (~ 2026.06) |
 | **🔨 Project** | [이리로(iriro)](https://github.com/leehyeon2021/IRIRO-back) — 서울 안심경로 추천 웹앱 서비스 |
 | **🎯 Goal** | 데이터 흐름과 구조 설계로 안정성을 구현하는 **백엔드 개발자** |
-| **💬 Message** | *“문제를 구조적으로 정의하고 흐름을 설계 설계합니다”* |
+| **💬 Message** | *“문제를 구조적으로 정의하고 흐름을 설계합니다”* |
 
 ---
 
@@ -73,10 +78,7 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeon2021&layout=compact&theme=react&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leehyeon2021&theme=react" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=leehyeon2021&theme=react" />
 </div>
 
 ---
@@ -101,5 +103,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c400,50:1b4fa8,100:1a1a2e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c400,50:1b4fa8,100:1a1a2e&height=100&section=footer" width="100%"/>
 </div>
