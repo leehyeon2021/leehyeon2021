@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **leehyeon2021/leehyeon2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +5,7 @@ Here are some ideas to get you started:
 <!-- Header -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hello%2C%20World!%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20Tae-hyeon's%20World!&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
 </div>
 
 <br/>
@@ -15,7 +13,8 @@ Here are some ideas to get you started:
 <!-- Intro -->
 
 <div align="center">
-  <h2>안녕하세요, 백엔드 개발자 <strong>홍길동</strong>입니다 🚀</h2>
+  <h2>안녕하세요! 문장을 해석하듯 시스템을 읽는 사람,</h2>
+  <h2>백엔드 개발자 <strong>이태현</strong>입니다. 👩🏻‍💻</h2>
   <p>
     탄탄한 서버와 깔끔한 API를 만드는 것을 좋아합니다.<br/>
     <em>"좋은 코드는 그 자체로 문서다."</em>
