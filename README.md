@@ -82,7 +82,7 @@
 </div>
 
 ---
-
+<!-- Header
 ## 🌿 Contribution
 
 <div align="center">
@@ -94,7 +94,7 @@
 </div>
 
 ---
-
+-->
 ## 🔗 Links
 
 <div align="center">
