@@ -60,7 +60,6 @@
 ![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Kakao Map API](https://img.shields.io/badge/Kakao_Map_API-FFCD00?style=flat-square&logo=kakao&logoColor=black)
 ![Public Data API](https://img.shields.io/badge/Public_Data_API-005571?style=flat-square)
-![Komoran](https://img.shields.io/badge/Komoran-8E44AD?style=flat-square&logoColor=white)
 
 **DevOps & 협업**
 <br>
