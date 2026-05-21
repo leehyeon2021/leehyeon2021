@@ -1,12 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1b4fa8,100:f5c400&height=180&section=header&text=문장을%20해석하듯%2C%20시스템을%20읽습니다&fontFamily=Pretendard&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Lee%20Tae-hyun&descSize=16&descAlignY=58&descColor=f5e642" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1b4fa8,100:f5c400&height=180&section=header&text=이태현의%20깃허브&fontFamily=Pretendard&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Lee%20Tae-hyun&descSize=16&descAlignY=58&descColor=f5e642" width="100%" />
 </div>
 
 <!-- Intro -->
 <div align="center">
-  <br/>
-  <h1>안녕하세요, 이태현입니다.</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&pause=6000&color=688DCF&width=600&height=100&center=true&vCenter=true&lines=%EB%AC%B8%EB%A7%A5%EC%9D%84+%EC%9D%BD%EB%93%AF+%ED%9D%90%EB%A6%84%EC%9D%84+%EC%9D%BD%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C%20%EC%9D%B4%ED%83%9C%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4."  alt="Typing SVG" /></a>
   <p>
     <img src="https://img.shields.io/badge/Focus-Backend_Development-3178C6?style=flat-square"/>
     <img src="https://img.shields.io/badge/Background-Korean_Literature-E91E63?style=flat-square"/>
