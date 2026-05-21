@@ -82,8 +82,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeon2021&layout=compact&theme=react&langs_count=8" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=leehyeon2021&theme=react" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leehyeon2021&theme=tokyonight&show_icons=true&hide=stars%2Cissues" alt="GitHub Stats" />
+  <br/>
+<!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leehyeon2021&layout=compact&theme=tokyonight&langs_count=8" height="160"/>
+  <br/> 
+-->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=leehyeon2021&theme=tokyonight" />
 </div>
 
 ---
