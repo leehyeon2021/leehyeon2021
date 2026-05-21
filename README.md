@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c7997,50:1b4fa8,100:7b2cbf&height=180&section=header&text=이태현의%20깃허브&fontFamily=Pretendard&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Lee%20Tae-hyun&descSize=16&descAlignY=58&descColor=e6dcf5" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1b4fa8,70:7b2cbf,100:ac69e5&height=180&section=header&text=이태현의%20깃허브&fontFamily=Pretendard&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Lee%20Tae-hyun&descSize=16&descAlignY=58&descColor=e6dcf5" width="100%" alt="Header" />
 </div>
 
 <!-- Intro -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&pause=6000&color=8371b7&width=600&height=100&center=true&vCenter=true&lines=%EB%AC%B8%EB%A7%A5%EC%9D%84+%EC%9D%BD%EB%93%AF+%ED%9D%90%EB%A6%84%EC%9D%84+%EC%9D%BD%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C%20%EC%9D%B4%ED%83%9C%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gugi&size=30&pause=6000&color=916cff&width=600&height=100&center=true&vCenter=true&lines=%EB%AC%B8%EB%A7%A5%EC%9D%84+%EC%9D%BD%EB%93%AF+%ED%9D%90%EB%A6%84%EC%9D%84+%EC%9D%BD%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C%20%EC%9D%B4%ED%83%9C%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
   <p>
     <img src="https://img.shields.io/badge/Focus-Backend_Development-3178C6?style=flat-square"/>
     <img src="https://img.shields.io/badge/Background-Korean_Literature-E91E63?style=flat-square"/>
@@ -119,5 +119,5 @@
 <div align="center">
   <img src="https://github-profile-toolkit.vercel.app//api/pokemon?user=leehyeon2021&gen=gen1&starter=gastly" alt="My Pokemon" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,50:1b4fa8,100:6c7997&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ac69e5,30:7b2cbf,80:1b4fa8,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
 </div>
